@@ -20,5 +20,5 @@ This is the nft contract:
 - [NFT image minted](https://ipfs.io/ipfs/QmNnMVA74JU4kEjbzhFe4n1gtEJC85djDKG6zqP2QKUuqb?filename=Ninjatic.full.571768.jpg): 
 ![ipfs uploaded image](https://ipfs.io/ipfs/QmNnMVA74JU4kEjbzhFe4n1gtEJC85djDKG6zqP2QKUuqb?filename=Ninjatic.full.571768.jpg)
 - Website:
-![website look]()
+![website look](https://github.com/ChitranshVashney/2-task-alphavault/blob/main/New%20folder/2_task/Screenshot%202023-02-16%20193055.png)
 
